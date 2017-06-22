@@ -89,3 +89,4 @@ ENV/
 .ropeproject
 
 derby.log
+metastore_db
